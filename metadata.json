@@ -1,0 +1,5 @@
+{
+  "name": "TimeShift",
+  "description": "A world clock and time zone converter for seamless meeting scheduling across different locations.",
+  "requestFramePermissions": []
+}
